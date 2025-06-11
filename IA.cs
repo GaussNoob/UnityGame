@@ -12,7 +12,6 @@ public class IA : MonoBehaviour
         agente = GetComponent<NavMeshAgent>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         agente.SetDestination(target.position);
