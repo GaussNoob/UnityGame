@@ -1,6 +1,6 @@
 # 🎮 Game Scripts Hub
 
-Bem-vindo ao **Game Scripts Hub**! Este repositório foi criado para compartilhar scripts de um jogo que estou desenvolvendo com amigos. Aqui você encontrará código limpo, comentado e organizado — ideal tanto para aprendizado quanto para testes e experimentações.
+Bem-vindo ao **UnityGame**! Este repositório foi criado para compartilhar scripts de um jogo que estou desenvolvendo com amigos. Aqui você encontrará código limpo, comentado e organizado — ideal tanto para aprendizado quanto para testes e experimentações.
 
 ## 🚀 Objetivo
 
