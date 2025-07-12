@@ -1,16 +1,37 @@
 # 🎮 UnityGame
 
-Bem-vindo ao **UnityGame**! Este repositório foi criado para compartilhar scripts de um jogo que estou desenvolvendo com amigos. Aqui você encontrará código de cada uma das mecanicas basicas, vou deixar o codigo completamente documentado(depois) — ideal tanto para aprendizado quanto para testes e experimentações.
+Bem-vindo ao **UnityGame**! Este repositório é um espaço dedicado a compartilhar scripts e recursos de um jogo que estou desenvolvendo em colaboração com amigos. Aqui, você encontrará códigos comentados e organizados, abrangendo as mecânicas básicas do jogo. Nosso objetivo é criar um ambiente ideal para aprendizado, testes e experimentações no desenvolvimento de jogos com **Unity**.
 
 ## 🚀 Objetivo
 
-O objetivo deste projeto é criar um espaço colaborativo onde possamos:
+Este projeto foi criado para ser um espaço colaborativo, onde podemos:
 
-- Desenvolver e compartilhar scripts do jogo
-- Aprender juntos sobre desenvolvimento de jogos
-- Testar funcionalidades e mecânicas
-- Ajudar quem está começando com exemplos práticos
+- Desenvolver e compartilhar scripts úteis para jogos
+- Aprender juntos sobre desenvolvimento de jogos na Unity
+- Testar e experimentar funcionalidades e mecânicas
+- Auxiliar iniciantes com exemplos práticos e bem documentados
 
-## Vou Deixar As Aulinhas Que Gravei Aqui Assim Que Estiver Tudo Pronto
+## 📚 Aulas e Tutoriais
 
-<a href="https://drive.google.com/file/d/1XtQFMz-RO-1WXOWqaFfB6IKGbLn6SxUK/view?usp=sharing">Aula 1</a>
+Confira nossa primeira aula, já disponível, para começar sua jornada na Unity:
+
+- **[Aula 1: Primeiros Passos na Unity](https://drive.google.com/file/d/1XtQFMz-RO-1WXOWqaFfB6IKGbLn6SxUK/view?usp=sharing)**  
+  Esta aula aborda os fundamentos da Unity, incluindo a construção de terrenos, manipulação de colisões e uma introdução ao código.
+
+Mais videoaulas serão adicionadas em breve com explicações detalhadas sobre o desenvolvimento do jogo.
+
+## 🛠️ Como Contribuir
+
+Quer fazer parte deste projeto? Fique à vontade para:
+
+1. Clonar o repositório e testar os scripts
+2. Enviar sugestões ou melhorias por meio de *pull requests*
+3. Compartilhar suas próprias ideias e mecânicas
+4. Entrar em contato para dúvidas ou colaborações
+
+## 📝 Notas
+
+- Os códigos estão sendo documentados para facilitar o entendimento e uso.
+- Novas aulas e atualizações serão adicionadas regularmente.
+
+Junte-se a nós e vamos criar algo incrível juntos! 🚀
