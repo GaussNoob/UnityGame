@@ -13,10 +13,13 @@ Este projeto foi criado para ser um espaço colaborativo, onde podemos:
 
 ## 📚 Aulas e Tutoriais
 
-Confira nossa primeira aula, já disponível, para começar sua jornada na Unity:
+Confira nossas aulas disponíveis para começar sua jornada na Unity:
 
 - **[Aula 1: Primeiros Passos na Unity](https://drive.google.com/file/d/1XtQFMz-RO-1WXOWqaFfB6IKGbLn6SxUK/view?usp=sharing)**  
   Esta aula aborda os fundamentos da Unity, incluindo a construção de terrenos, manipulação de colisões e uma introdução ao código.
+
+- **[Aula 2: Movimentação do Personagem e Câmera](https://drive.google.com/file/d/16VUxfeF5pkDGEsA8XpfxHnFWiZDsGrSl/view?usp=sharing)**  
+  Esta aula ensina como implementar a movimentação do personagem e configurar a câmera para seguir o personagem na Unity, criando uma experiência de jogo fluida.
 
 Mais videoaulas serão adicionadas em breve com explicações detalhadas sobre o desenvolvimento do jogo.
 
