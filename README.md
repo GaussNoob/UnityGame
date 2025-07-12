@@ -1,6 +1,6 @@
 # 🎮 UnityGame
 
-Bem-vindo ao **UnityGame**! Este repositório é um espaço dedicado a compartilhar scripts e recursos de um jogo que estou desenvolvendo em colaboração com amigos. Aqui, você encontrará códigos comentados e organizados, abrangendo as mecânicas básicas do jogo. Nosso objetivo é criar um ambiente ideal para aprendizado, testes e experimentações no desenvolvimento de jogos com **Unity**.
+Bem-vindo ao **UnityGame**! Este repositório é um espaço dedicado a compartilhar scripts e recursos de um jogo que estou desenvolvendo em colaboração com amigos. Como estudante, estou compartilhando meu conhecimento da melhor forma possível, com o objetivo de ajudar outros a aprenderem sobre desenvolvimento de jogos na **Unity**. Os códigos são comentados e organizados, cobrindo mecânicas básicas do jogo, mas podem conter erros, já que estou aprendendo e melhorando junto com a comunidade!
 
 ## 🚀 Objetivo
 
@@ -34,6 +34,7 @@ Quer fazer parte deste projeto? Fique à vontade para:
 
 ## 📝 Notas
 
+- Sou um estudante aprendendo Unity, e meu objetivo é compartilhar o que sei de forma clara e acessível. Os códigos e aulas são feitos com cuidado, mas podem conter erros. Feedbacks são muito bem-vindos para melhorar o conteúdo!
 - Os códigos estão sendo documentados para facilitar o entendimento e uso.
 - Novas aulas e atualizações serão adicionadas regularmente.
 
