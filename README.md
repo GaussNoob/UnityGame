@@ -12,3 +12,5 @@ O objetivo deste projeto é criar um espaço colaborativo onde possamos:
 - Ajudar quem está começando com exemplos práticos
 
 ## Vou Deixar As Aulinhas Que Gravei Aqui Assim Que Estiver Tudo Pronto
+
+<a href="https://drive.google.com/file/d/1XtQFMz-RO-1WXOWqaFfB6IKGbLn6SxUK/view?usp=sharing">Aula 1</a>
