@@ -21,7 +21,7 @@ Confira as aulas que preparei para compartilhar o que estou aprendendo na Unity:
 - **[Aula 2: Movimentação do Personagem e Câmera](https://drive.google.com/file/d/16VUxfeF5pkDGEsA8XpfxHnFWiZDsGrSl/view?usp=sharing)**  
   Esta aula ensina como criar a movimentação do personagem e configurar a câmera para segui-lo, para uma experiência de jogo mais fluida.
 
-- **[Aula 3: Mecânica de Lanterna, Pulo, Gravidade, Iluminação e Fumaça](EmBreve)**  
+- **[Aula 3: Mecânica de Lanterna, Pulo, Gravidade, Iluminação e Fumaça](https://drive.google.com/file/d/1d7MiJnhFwL0cFHmOixeLABqBjowizmXC/view?usp=sharing)**  
   Esta aula aborda como implementar uma mecânica de lanterna, configurar o pulo do personagem, ajustar a gravidade, trabalhar com iluminação do ambiente e adicionar fumaça para criar atmosfera.
 
 Mais aulas serão adicionadas aos poucos, conforme continuo aprendendo e melhorando.
