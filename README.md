@@ -1,41 +1,44 @@
 # 🎮 UnityGame
 
-Bem-vindo ao **UnityGame**! Este repositório é um espaço dedicado a compartilhar scripts e recursos de um jogo que estou desenvolvendo em colaboração com amigos. Como estudante, estou compartilhando meu conhecimento da melhor forma possível, com o objetivo de ajudar outros a aprenderem sobre desenvolvimento de jogos na **Unity**. Os códigos são comentados e organizados, cobrindo mecânicas básicas do jogo, mas podem conter erros, já que estou aprendendo e melhorando junto com a comunidade!
+Bem-vindo ao **UnityGame**! Sou um estudante começando no desenvolvimento de jogos e criei este repositório para compartilhar o que estou aprendendo com a Unity, junto com alguns amigos. Aqui, você encontrará scripts comentados com mecânicas básicas do jogo que estou desenvolvendo. Meu objetivo é tentar repassar o que aprendi da melhor forma, mesmo que possa haver erros, para ajudar quem também está começando.
 
 ## 🚀 Objetivo
 
-Este projeto foi criado para ser um espaço colaborativo, onde podemos:
+Este projeto é um espaço para aprendizado e colaboração, onde pretendo:
 
-- Desenvolver e compartilhar scripts úteis para jogos
-- Aprender juntos sobre desenvolvimento de jogos na Unity
-- Testar e experimentar funcionalidades e mecânicas
-- Auxiliar iniciantes com exemplos práticos e bem documentados
+- Compartilhar scripts simples e úteis para jogos
+- Aprender mais sobre desenvolvimento de jogos na Unity
+- Experimentar e testar mecânicas básicas
+- Ajudar iniciantes com exemplos práticos e fáceis de entender
 
 ## 📚 Aulas e Tutoriais
 
-Confira nossas aulas disponíveis para começar sua jornada na Unity:
+Confira as aulas que preparei para compartilhar o que estou aprendendo na Unity:
 
 - **[Aula 1: Primeiros Passos na Unity](https://drive.google.com/file/d/1XtQFMz-RO-1WXOWqaFfB6IKGbLn6SxUK/view?usp=sharing)**  
-  Esta aula aborda os fundamentos da Unity, incluindo a construção de terrenos, manipulação de colisões e uma introdução ao código.
+  Esta aula mostra os fundamentos da Unity, como construir terrenos, trabalhar com colisões e uma introdução ao código.
 
 - **[Aula 2: Movimentação do Personagem e Câmera](https://drive.google.com/file/d/16VUxfeF5pkDGEsA8XpfxHnFWiZDsGrSl/view?usp=sharing)**  
-  Esta aula ensina como implementar a movimentação do personagem e configurar a câmera para seguir o personagem na Unity, criando uma experiência de jogo fluida.
+  Esta aula ensina como criar a movimentação do personagem e configurar a câmera para segui-lo, para uma experiência de jogo mais fluida.
 
-Mais videoaulas serão adicionadas em breve com explicações detalhadas sobre o desenvolvimento do jogo.
+- **[Aula 3: Mecânica de Lanterna, Pulo, Gravidade, Iluminação e Fumaça](EmBreve)**  
+  Esta aula aborda como implementar uma mecânica de lanterna, configurar o pulo do personagem, ajustar a gravidade, trabalhar com iluminação do ambiente e adicionar fumaça para criar atmosfera.
+
+Mais aulas serão adicionadas aos poucos, conforme continuo aprendendo e melhorando.
 
 ## 🛠️ Como Contribuir
 
-Quer fazer parte deste projeto? Fique à vontade para:
+Se quiser ajudar ou aprender junto, sinta-se à vontade para:
 
 1. Clonar o repositório e testar os scripts
-2. Enviar sugestões ou melhorias por meio de *pull requests*
-3. Compartilhar suas próprias ideias e mecânicas
-4. Entrar em contato para dúvidas ou colaborações
+2. Enviar sugestões ou correções por meio de *pull requests*
+3. Compartilhar ideias ou dúvidas
+4. Entrar em contato para trocarmos experiências
 
 ## 📝 Notas
 
-- Sou um estudante aprendendo Unity, e meu objetivo é compartilhar o que sei de forma clara e acessível. Os códigos e aulas são feitos com cuidado, mas podem conter erros. Feedbacks são muito bem-vindos para melhorar o conteúdo!
-- Os códigos estão sendo documentados para facilitar o entendimento e uso.
+- Estou começando na Unity e tentando repassar o que aprendi da melhor forma. Os códigos e aulas podem ter erros, então qualquer feedback é muito bem-vindo para melhorar!
+- Os scripts estão sendo comentados para facilitar o entendimento.
 - Novas aulas e atualizações serão adicionadas regularmente.
 
-Junte-se a nós e vamos criar algo incrível juntos! 🚀
+Obrigado por acompanhar, e espero que possamos aprender juntos! 😊
